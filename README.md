@@ -1,4 +1,4 @@
-#NMAPeteer parse XML NMAP log and take screenshots
+# NMAPeteer parse XML NMAP log and take screenshots
 
 ## Install
 
